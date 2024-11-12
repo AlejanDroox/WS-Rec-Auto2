@@ -1,0 +1,33 @@
+# Licencia empresarial de por vida para Generador y envio de recordatorios
+
+## Concesión de licencia
+
+Rick Store (en adelante, "**Licenciatario**") ha adquirido una licencia empresarial de por vida (en adelante, "**Licencia**") para el software **Generador y envio de recordatorios** (en adelante, "**Software**") desarrollado por **Daniel Alejandro Mendez Rivera** (en adelante, "**Licenciante**").
+
+## Condiciones de la licencia
+
+* El Licenciatario tiene derecho a usar el Software de forma no exclusiva e intransferible en su empresa para fines comerciales internos.
+* El Licenciatario no tiene derecho a distribuir, copiar, modificar, traducir, descompilar, desensamblar o crear obras derivadas del Software.
+* El Licenciatario no tiene derecho a sublicenciar o alquilar el Software a terceros.
+* El Licenciatario se compromete a mantener la confidencialidad del Software y a no divulgarlo a terceros.
+* El Licenciatario es responsable de cualquier daño o perjuicio causado por el uso del Software.
+
+## Limitación de responsabilidad
+
+El Licenciante no se hace responsable de ningún daño o perjuicio, directo o indirecto, derivado del uso del Software.
+
+## Duración
+
+La Licencia es válida de por vida.
+
+## Jurisdicción
+
+Esta Licencia se regirá por las leyes de **[País del desarrollador]**.
+
+## Aceptación
+
+El uso del Software implica la aceptación de los términos y condiciones de esta Licencia.
+
+## Información de contacto
+
+Para cualquier pregunta o duda sobre esta Licencia, el Licenciatario puede contactar con el Licenciante a través de la siguiente dirección de correo electrónico: **+58 412-6468694**

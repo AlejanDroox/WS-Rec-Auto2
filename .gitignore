@@ -1,0 +1,15 @@
+*.csv
+.venv
+*.rar
+*__
+*.pyc
+/__pycache__
+/__pycache__
+__pycache__/gen_res.cpython-312.pyc
+*.pyc
+__pycache__/gen_res.cpython-312.pyc
+/__pycache__
+/Control_llegada
+/WS-Rec-Auto ya ni se que version
+/Modulos/build
+/Modulos/dist

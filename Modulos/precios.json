@@ -1,0 +1,32 @@
+{
+  "COMBOS": {
+    "COMBO 5": 3.5,
+    "COMBO 2": 3
+  },
+  "NETFLIX": {
+      "PANTALLA": 3,
+      "CUENTA": 12
+  },
+  "CRUNCHY": {
+    "PANTALLA": 1,
+    "CUENTA": 3
+  },
+
+  "PARAMOUNT": {
+    "PANTALLA": 1,
+    "CUENTA": 3.5
+  },
+  "CANVA PRO": {
+    "PANTALLA": 1,
+    "CUENTA": 4
+  },
+  "MAGIS": {
+    "PANTALLA": 3.5,
+    "CUENTA": 9
+  },
+
+  "VIX": {
+    "PANTALLA": 3,
+    "CUENTA": 3
+  }
+}
